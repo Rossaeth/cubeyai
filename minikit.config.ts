@@ -11,7 +11,7 @@ export const minikitConfig = {
   {
   "accountAssociation": {
     "header": 
-    "payload": 
+    "payload":
     "signature":
   }
 }.
